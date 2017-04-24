@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-sass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Gatsby plugin to handle scss/sass files",
   "main": "index.js",
   "author": "Daniel Farrell <daniel@mobelux.com>",
