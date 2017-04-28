@@ -1,13 +1,6 @@
 # gatsby-plugin-sass
 
-Sass/scss support for Gatsby 1.0
+This plugin has been merged into the main gatsby repo here:
 
-## Usage
+https://github.com/gatsbyjs/gatsby/tree/1.0/packages/gatsby-plugin-sass
 
-`npm install gatsby-plugin-sass`
-
-or
-
-`yarn add gatsby-plugin-sass`
-
-And then add `gatsby-plugin-sass` to your `gatsby-config.js` file in the plugins.
